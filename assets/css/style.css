@@ -1,0 +1,34 @@
+body{
+    font-family: 'Lobster', cursive;
+}
+
+h1{
+    text-align: center;
+}
+
+.jumbotron{
+    margin: 5%;
+    font-family: 'Lobster', cursive;
+}
+
+img{
+    margin:  5% 5% 5% 5% ;
+    width: 90%;
+    height: 90%;
+    align-content: center;
+
+}
+
+.general{
+    text-align: center;
+}
+
+.gameName{
+    color: aliceblue;
+    font-size: 100px;
+
+}
+
+span{
+    color: darkblue;
+}
